@@ -1,0 +1,16 @@
+# Python virtual environment
+env/
+enu/
+venv/
+__pycache__/
+*.pyc
+pyvenv.cfg
+
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
