@@ -20,16 +20,16 @@ using a machine learning model and displays the results on a web-based dashboard
 ## How to Run the Project
 
 1. Clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
-
-2. Navigate to the project folder
+   git clone https://github.com/Badrinath001/Emotion-detection
+   
+3. Navigate to the project folder
    cd minor project 2
 
-3. Install dependencies
+4. Install dependencies
    pip install -r requirements.txt
    npm install
 
-4. Run the application
+5. Run the application
    python server.py
 
 ## Author
